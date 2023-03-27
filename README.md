@@ -9,3 +9,7 @@
 
 - 🎂 Age: 20
 - 📍 Location: Palestine
+
+### YouTube Channel
+
+Check out my YouTube channel for programming tutorials and tech reviews: [@NotYazan](https://www.youtube.com/@NotYazan).
