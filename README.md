@@ -1,8 +1,11 @@
-- Hi, I’m @Yazan
-- I’m interested in Programming.
-- How to reach me Instagram  : @5LLL Or Discord : YAZAN#1411
+### Hi there, I'm Yazan 👋
 
-<!---
-ThePicYazan/ThePicYazan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🔭 I’m interested in Programming.
+- 🌱 I’m currently learning new programming languages and technologies.
+- 📫 How to reach me: Instagram - [@5LLL](https://www.instagram.com/5LLL/) or Discord - YAZAN#1411
+- ⚡ Fun fact: I love to learn new things and read about new technologies.
+
+### About me
+
+- 🎂 Age: 20
+- 📍 Location: Palestine
